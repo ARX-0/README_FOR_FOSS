@@ -14,7 +14,11 @@
 
 <img width="535" height="695" alt="image" src="https://github.com/user-attachments/assets/e7549852-2311-47dc-97fe-1d05ff2485fa" />
 
-- This is what I built - A systolic array of Givens rotation QR decomposers PEs are implemented in C++ using Vitis HLS (free) and Vivado (free), running on float32 arithmetic. 
+- This is what I built - A systolic array of Givens rotation QR decomposers PEs are implemented in C++ using Vitis HLS (free) and Vivado (free), running on float32 arithmetic.
+
+  <img width="1524" height="764" alt="Screenshot 2026-03-23 001111" src="https://github.com/user-attachments/assets/929dfb87-bd2d-4a55-86e6-1c035bb05f2c" />
+
+<img width="940" height="897" alt="Screenshot 2026-03-23 001032" src="https://github.com/user-attachments/assets/d8680a2c-7e5c-4a42-acea-ab7b50aa7ace" />
 
 - A concrete visual result anyone can understand: the same algorithm in 64-bit fixed-point produces a corrupted ultrasound cyst image, however the float32 produces a diagnostically clear reconstruction. 
 
